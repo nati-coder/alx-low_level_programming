@@ -5,8 +5,7 @@
 /** 
  * main - Determination of the last digit < or > five or zero.
  *
- * Return: Always 0 (Success)
- *
+ * Return: Always 0 (Success) 
  */
 int main(void)
 {
