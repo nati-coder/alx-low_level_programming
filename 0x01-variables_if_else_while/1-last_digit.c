@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
- * main - Determination of the last digit < or > five or zero.
+/**
+ * main - Determines if the last digit is greater or less than five or zero.
  *
- * Return: Always 0 (Success) 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
