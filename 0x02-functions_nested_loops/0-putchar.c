@@ -10,5 +10,5 @@ int main(void)
 	char put[8] = "_putchar";
 
 	_putchar(put[8]);
-	return 0;
+	return (0);
 }
