@@ -4,6 +4,7 @@
  * main - Prints alphabets in lowercase 10 times.
  *
  * Return: Always 0 (Success)
+ * print_alphabet_x10 - Print alphabet, in lowercases 10 x, end with new line
  */
 void print_alphabet_x10(void)
 {

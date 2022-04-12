@@ -4,6 +4,7 @@
  * main - Prints the alphabet..
  *
  * Return: Always 0 (Success).
+ * print_alphabet - Prints alphabet, in lowercases, end with new line.
  */
 void print_alphabet(void)
 {
