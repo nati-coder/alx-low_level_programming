@@ -10,5 +10,6 @@ int main(void)
 	char put[8] = "_putchar";
 
 	_putchar(put[8]);
+	_putchar('\n');
 	return (0);
 }
